@@ -1,6 +1,6 @@
-----------------------------------------------
-ORA-01861 literal does not match format string
-----------------------------------------------
+------------------------------------------------
+# ORA-01861 literal does not match format string
+------------------------------------------------
 
 If you faces this error, Check out the following.
 
@@ -9,6 +9,8 @@ If you faces this error, Check out the following.
 1. To store a string (String type) in a NUMBER type column
 
 2. To store a string (String type) in a DATE type column
+
+3. check your Date form
 
 
 Ex1)
