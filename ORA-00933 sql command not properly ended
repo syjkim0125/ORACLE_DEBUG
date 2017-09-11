@@ -1,6 +1,6 @@
-----------------------------------------
-ORA-00933 sql command not properly ended
-----------------------------------------
+------------------------------------------
+# ORA-00933 sql command not properly ended
+------------------------------------------
 
 if you faces this error, check for next things.
 
