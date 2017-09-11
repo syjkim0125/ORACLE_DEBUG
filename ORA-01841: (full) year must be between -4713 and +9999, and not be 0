@@ -1,6 +1,6 @@
---------------------------------------------------------------------
-ORA-01841: (full) year must be between -4713 and +9999, and not be 0 
---------------------------------------------------------------------
+----------------------------------------------------------------------
+# ORA-01841: (full) year must be between -4713 and +9999, and not be 0 
+----------------------------------------------------------------------
 
 Question: I have a table with a column having date as 20150324 i.e YYYYMMDD.
 When I try to load this data via sqlldr , it gives me the ORA-01841 error
