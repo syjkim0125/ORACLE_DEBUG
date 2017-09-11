@@ -1,6 +1,6 @@
---------------------------------------
-ORA-00904: poltyp : invalid identifier
---------------------------------------
+----------------------------------------
+# ORA-00904: poltyp : invalid identifier
+----------------------------------------
 
 If you faces this error, check follow things.
 
